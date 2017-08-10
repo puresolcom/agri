@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "06d5177569ada9b1ecf85405db3f44e8",
+    "hash": "11d80c2f2c838b1963459d5e9b880c60",
     "content-hash": "da61569989ce97864d19791bc89b8ffb",
     "packages": [
         {
@@ -1290,7 +1290,7 @@
             "source": {
                 "type": "git",
                 "url": "git@gitlab.alifca.com:mander/awok-lucid.git",
-                "reference": "f218c4c6770295dcc22078183286b31d4e2397f0"
+                "reference": "cdfcec354746600fa0fb70197c560223dd501f36"
             },
             "type": "library",
             "autoload": {
@@ -1305,7 +1305,7 @@
                 }
             ],
             "description": "Awok.com Lucid Base Repository",
-            "time": "2017-08-08 13:07:34"
+            "time": "2017-08-10 07:27:31"
         },
         {
             "name": "monolog/monolog",
