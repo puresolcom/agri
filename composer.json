@@ -13,12 +13,13 @@
     "laravel/lumen-framework": "5.4.*",
     "vlucas/phpdotenv": "~2.2",
     "league/fractal": "^0.16.0",
-    "mander/awok-lucid": "master"
+    "mander/awok-lucid": "master",
+    "firebase/php-jwt": "^5.0"
   },
   "repositories": [
     {
       "type": "vcs",
-      "url": "git@gitlab.alifca.com:mander/awok-lucid.git"
+      "url": "git@github.com:puresolcom/base-lucid.git"
     }
   ],
   "require-dev": {
