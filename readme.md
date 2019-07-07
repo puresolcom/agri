@@ -1,3 +1,4 @@
+
 # Mini Agriculture System Assessment
 
 This system was created with lumen and on-top of it I have been using LUCID structure where every thing is decoupled into smaller pieces of code called jobs and grouped into what I call "Operations" when needed
@@ -36,11 +37,12 @@ The file explorer is accessible using the button in left corner of the navigatio
 ## How to install
 
  1. LAMP stack installed on any linux server
- 2. Apache Virtual host to use "public" directory as its root path
- 3. run `composer update` to install all dependencies
- 4. Update `.env` file with your database credentials
- 5. Import `database/agrico.sql` to any mysql database or (Optional) you may run `php artisan migrate` to install migration files directly into your database to create empty schema (is this later case you will have to assign users roles manually in DB in `user_role` table)
- 6. Done, now you may try all the endpoints
+ 2. Clone this repository
+ 3. Apache Virtual host to use "public" directory as its root path
+ 4. run `composer update` to install all dependencies
+ 5. Update `.env` file with your database credentials
+ 6. Import `database/agrico.sql` to any mysql database or (Optional) you may run `php artisan migrate` to install migration files directly into your database to create empty schema (is this later case you will have to assign users roles manually in DB in `user_role` table)
+ 7. Done, now you may try all the endpoints
  
 ## Test User/s
 
