@@ -53,3 +53,6 @@ The following users were created in the sample db file
  5. moderator@moderator.com
  
  Passwords for all of them are **"123456"**
+ 
+ ## API Docs
+ [See docs here]: https://documenter.getpostman.com/view/619838/SVSDQXVi
